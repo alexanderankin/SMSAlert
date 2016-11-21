@@ -15,3 +15,8 @@ export TWILIOPHONE=
 ```
 
 * use script, see `index.sh` for example.
+
+
+## Use Cases
+
+* Watch over a PID: `./sample_usage_PID_watcher.sh <YOUR_PID_HERE>`
